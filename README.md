@@ -1,0 +1,1 @@
+# Extracting-text-from-image-document-using-Lambda-and-S3-with-Amazon-Textract.
